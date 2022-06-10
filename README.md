@@ -1,2 +1,6 @@
-# Desafio-Criando-Uma-Lista-de-Tarefas-em-JavaScript-Dio
-Desafio criando uma lista de tarefas (to-do list) em JavaScript - Dio
+# Desafio
+
+## Criando uma lista de tarefas (to-do list) em JavaScript 📝
+
+Projeto referente ao curso "Introdução a JavaScript" realizado no bootcamp oferecido pela [Digital Innovation One](https://digitalinnovation.one/).
+Neste projeto, criei uma simples lista de tarefas.
